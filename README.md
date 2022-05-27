@@ -1,1 +1,1 @@
-SOLID.js envagelist 🛐
+SOLID.js evangelist 🛐
