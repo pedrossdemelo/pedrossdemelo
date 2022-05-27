@@ -1,1 +1,1 @@
-SOLIDjs envagelist 🛐
+SOLID.js envagelist 🛐
